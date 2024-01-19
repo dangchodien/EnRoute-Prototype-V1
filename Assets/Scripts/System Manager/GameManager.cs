@@ -72,4 +72,8 @@ public class GameManager :MonoBehaviour
         }
         Loaded = true;
     }
+
+    public bool mini1Win = false;
+    public bool mini2Win = false;
+    public bool mini3Win= false;
 }
